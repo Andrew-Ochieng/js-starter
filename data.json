@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "Post one",
+      "body": "This is post one",
+      "id": "1"
+    },
+    {
+      "title": "Post two",
+      "body": "This is post two",
+      "id": "2"
+    },
+    {
+      "title": "Post three",
+      "body": "This is post three",
+      "id": "3"
+    },
+    {
+      "title": "Post four",
+      "body": "This is post four",
+      "id": "4"
+    },
+    {
+      "title": "Post five",
+      "body": "This is post five",
+      "id": "11a5"
+    },
+    {
+      "id": "ae11",
+      "title": "Post six",
+      "body": "This is post six"
+    },
+    {
+      "title": "Joe",
+      "body": "Mwangi",
+      "id": "5"
+    }
+  ]
+}
